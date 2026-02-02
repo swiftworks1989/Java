@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Exercise 3-4/GuessMyNumber/src"/>
+	<classpathentry kind="src" path="FormattingOutput/src"/>
+	<classpathentry kind="src" path="LiteralsAndConstants/src"/>
+	<classpathentry kind="src" path="PuttingItAllTogether/PuttingItAllTogether/src"/>
+	<classpathentry kind="src" path="TheScannerBug/src"/>
+	<classpathentry kind="src" path="TheScannerClass/src"/>
+	<classpathentry kind="output" path="Exercise 3-4/GuessMyNumber/out/production/GuessMyNumber"/>
+</classpath>
