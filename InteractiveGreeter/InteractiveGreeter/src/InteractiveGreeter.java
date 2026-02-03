@@ -44,6 +44,6 @@ public class InteractiveGreeter {
         moneyIn = in_money.nextDouble(); // Assign the user input to the variable. in ,means read the keyboard. nextLine() reads up to Enter being pressed
 
         //Print out a response
-        System.out.println("You will donate $" + moneyIn + " today. Yay!");
+        System.out.printf("You will donate $ %.2f today. Yay!", moneyIn);
     }
 }
