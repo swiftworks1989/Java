@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // import the Java Scanner
 
 public class Conditionals {
 

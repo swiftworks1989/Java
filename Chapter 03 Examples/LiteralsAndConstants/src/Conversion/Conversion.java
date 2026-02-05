@@ -21,7 +21,7 @@ public class Conversion { //define a class
 		System.out.print("How many inches? ");
 		inch = in.nextInt(); // Assign variable inch
 		
-		cm = inch * CM_PER_INCH; // Convesrion
+		cm = inch * CM_PER_INCH; // Conversion
 		System.out.print(inch + " in = ");
 		System.out.println(cm + " cm");
 
